@@ -1,4 +1,4 @@
-# Hi there, I'm Doel! 👋✨
+# Hi there, I'm Abbeey 👋✨
 
 Welcome to my GitHub profile! I'm a passionate **Software Developer** and **Data Enthusiast** on a mission to create innovative solutions. 
 
