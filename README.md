@@ -32,6 +32,10 @@ I am exploring the world of **Machine Learning**, **Cloud Computing**, **Web3**,
 
 ---
 
+### 🏆 GitHub Profile Trophy
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=doelsumbing87&theme=radical&no-frame=true&margin-w=10)
+
+
 ## 🌟 Projects in Development
 - **[Project 1](https://github.com/doelsumbing87/project1)**: Brief description of Project 1.
 - **[Project 2](https://github.com/doelsumbing87/project2)**: Brief description of Project 2.
